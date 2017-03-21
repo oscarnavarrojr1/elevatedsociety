@@ -87,6 +87,17 @@ section iframe {
 		margin-bottom: 0;
 }
 
+div iframe {
+	
+		width: 700px ;
+  		
+		margin-left: auto ;
+  		
+		margin-right: auto ;
+	
+	
+	
+}
 	
 	nav {
 
@@ -367,6 +378,35 @@ section iframe {
 
 }
 
+	.fb-like {
+		
+		display: inline;
+		
+		margin: 0 auto;
+		
+		width: auto;
+
+}
+
+	.ig {
+		
+		display: inline;
+		
+		margin: 0 auto;		
+		
+	
+
+}
 
 
+ul {
+	
+		display: inline-block;
+	
+		color: black;	
+		
+		font-family: 'Oswald', sans-serif;
+	
+		font-size: 14px;
+}
 	
