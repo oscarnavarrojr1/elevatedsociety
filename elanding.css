@@ -45,8 +45,7 @@ a:link {
 }
 
 a:hover {
-	background-color:red;
-	color:black;
+	color:white;
 	text-decoration: none;
 }
 
